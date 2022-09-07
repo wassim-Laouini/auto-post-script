@@ -5,7 +5,7 @@ import pyautogui
 import time
 
 
-
+#here you can add url code for each websites
 group= ['234468325515498','363916517127998','1171843326268182']
 
 time.sleep(5)
